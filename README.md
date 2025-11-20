@@ -59,7 +59,7 @@ Blending the ethereal, hand-drawn artistry of *Silt* with the expressive charact
 *Dive into the depths where few dare to tread*
 
 ![Monochrome wolf vision](/Screenshots/8.jpg)
-*See the world through wolf eyes—monochrome, but alive with scent and sound*
+*See the world through wolf eyes, as monochrome*
 
 ![Silhouetted landscape](/Screenshots/9.jpg)
 *A world stripped of warmth, where only the strong survive*
@@ -72,6 +72,10 @@ Blending the ethereal, hand-drawn artistry of *Silt* with the expressive charact
 
 ![Otherworldly environment](/Screenshots/12.jpg)
 *Journey through surreal landscapes that defy understanding*
+
+![Great world building](/Screenshots/13.jpg)
+*Amazing platforming and flow between transformations*
+
 
 ## Story
 
