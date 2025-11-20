@@ -1,10 +1,12 @@
 # Pallor
 
-A haunting tale of transformation, rejection, and belonging in a world that has forgotten compassion.
+A tale of transformation, rejection, and belonging in a world that has forgotten compassion.
 
 ## Overview
 
-**Pallor** is a atmospheric 2D adventure-platformer where you navigate a dying world as a shapeshifter caught between two forms—human and wolf. Cast out by both species for being neither fully one nor the other, you must survive in a harsh post-apocalyptic landscape and search for the acceptance you've been denied.
+**Pallor** is a atmospheric/cinematic 2D adventure-platformer where you navigate a dying world as a shapeshifter caught between two forms; human and wolf. Cast out by both species for being neither fully one nor the other, you must survive in a harsh post-apocalyptic landscape and search for the acceptance you've been denied.
+
+
 
 ## Key Features
 
@@ -12,7 +14,7 @@ A haunting tale of transformation, rejection, and belonging in a world that has 
 
 - **Wolf Form**: Experience the world in stark monochrome, heightening your senses but limiting your perspective
 - **Human Form**: See the world in muted color, revealing hidden details and paths unavailable to the wolf
-- Seamlessly transform between forms to solve environmental puzzles and navigate treacherous terrain
+- Seamlessly transform between forms (with really nice animation) to solve environmental puzzles and navigate treacherous terrain
 
 ### A World in Decay
 
@@ -76,7 +78,6 @@ Blending the ethereal, hand-drawn artistry of *Silt* with the expressive charact
 ![Great world building](/Screenshots/13.jpg)
 *Amazing platforming and flow between transformations*
 
-
 ## Story
 
 Born a mutant with the ability to shift between human and wolf, you belong to neither world. The humans chased you out, fearing what they couldn't understand. The wolves rejected you, repulsed by the scent of humanity that clings to your fur. 
@@ -88,22 +89,51 @@ But somewhere in this broken world, there is hope. Someone who will see you not 
 ## Gameplay Mechanics
 
 - **Form-Based Puzzle Solving**: Switch between human and wolf to access different areas and abilities
-- **Environmental Storytelling**: Piece together the history of this fallen world through exploration
-- **Survival Elements**: Manage resources carefully in a world where both humans and wolves want you gone
-- **Dynamic Color Palette**: The world transforms with you—monochrome as wolf, muted color as human
+  
+  
+- **Platforming**: Platforming requires witching between forms to make certain jumps ect.
+  
+  
+- **Environmental Storytelling**: Piece together the history of this fallen world through exploration (A lot of decaying abandoned buildings and stuff... Maybe inspired by "The Electric State")
+  
+  
+- **Survival Elements**: Manage resources (Hmm... not so sure about resources) carefully in a world where both humans and wolves want you gone (Also environment dangers as the building are falling apart)
+  
+  
+- **Dynamic Color Palette**: The world transforms with you—monochrome as wolf, muted colour as human
+  
+  
 - **Fluid Animation**: Experience responsive, hand-crafted movement that brings your character to life
+  
+  
+- **Dynamic Combat**: Well balanced dynamic combat as both human and wolf
+  
+  
+- **Strange Enemies**: Other mutated beings that have been cast out. So weird enemies with strange animation styles
 
 ## Inspired By
 
-- **Isobelle Carmody's Obernewtyn Chronicles** - Post-apocalyptic survival and mutation themes
-- **Rain World** - Harsh survival mechanics and ecosystem dynamics
-- **Hollow Knight** - Expressive character animation and atmospheric exploration
-- **Silt** - Monochromatic art direction and surreal underwater environments
+- **Isobelle Carmody's Obernewtyn Chronicles and The Kingdom of the Lost Series** - Post-apocalyptic survival and mutation themes
+- **Rain World** - Harsh survival mechanics and ecosystem dynamics with amazing decaying architecture
+- **Hollow Knight** - Expressive character animation and atmospheric exploration (SFX especially)
+- **Silt** - Monochromatic art direction and surreal underwater environments (Use art style from this the most)
 
 ## Development Status
 
-*Currently in development*
+*Currently in development* *(Maybe in a few years)*
+
+
+
+
+
+### Important:
+
+Will be built with Godot
+
+
+
+
 
 ---
 
-**Pallor** - When you belong to neither world, you must create your own.
+**Pallor** - When you belong to neither world, you must create your own. *(Nice catchphrase!)*
