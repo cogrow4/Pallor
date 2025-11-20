@@ -33,13 +33,13 @@ Blending the ethereal, hand-drawn artistry of *Silt* with the expressive charact
 
 ### Exploration & Platforming
 
-![Mysterious cavern exploration](/Screenshots/1.jpg)
+![Mysterious cavern exploration](/Screenshots/1.jpeg)
 *Navigate treacherous caves as you search for shelter from those who hunt you*
 
-![Precision platforming](/Screenshots/2.jpg)
+![Precision platforming](/Screenshots/2.jpeg)
 *Master fluid movement to traverse the decaying world*
 
-![Atmospheric environment](/Screenshots/3.jpg)
+![Atmospheric environment](/Screenshots/3.jpeg)
 *Every location tells a story of a world that has fallen*
 
 ### Character & Combat
